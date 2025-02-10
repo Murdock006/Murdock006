@@ -6,7 +6,5 @@
 😄 Pronouns: He/Him (or your preferred pronouns)
 ⚡ Fun fact: I love discovering new technologies and experimenting with different programming languages in my free time!
 
-<!---
-Murdock006/Murdock006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![happy-back-to-school](https://github.com/user-attachments/assets/0b9e004c-cd08-495b-9a46-6d4c6e141b46)
