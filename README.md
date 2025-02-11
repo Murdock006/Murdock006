@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Murdock006<br><br>👀 I’m interested in everything related to informatics, technology, cybersecurity, and software development.<br><br>🌱 I’m currently learning programming, networking, and AI applications.<br><br>💞️ I’m looking to collaborate on open-source projects, security research, and innovative tech solutions.<br><br>📫 How to reach me: (Here you can add your email, LinkedIn, or GitHub links)<br><br>😄 Pronouns: He/Him (or your preferred pronouns)<br><br>⚡ Fun fact: I love discovering new technologies and experimenting with different programming languages in my free time!
+👋 Hi, I’m @Murdock006<br><br>👀 I’m interested in everything related to informatics, technology, cybersecurity, and software development.<br><br>🌱 I’m currently learning programming, networking, and AI applications.<br><br>💞️ I’m looking to collaborate on open-source projects, security research, and innovative tech solutions.<br><br>📫 How to reach me: (Here you can add your email, LinkedIn, or GitHub links)<br><br>⚡ Fun fact: I love discovering new technologies and experimenting with different programming languages in my free time!
 
 
 ## 🌐 Socials:
