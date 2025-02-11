@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m @Murdock006<br><br>👀 I’m interested in everything related to informatics, technology, cybersecurity, and software development.<br><br>🌱 I’m currently learning programming, networking, and AI applications.<br><br>💞️ I’m looking to collaborate on open-source projects, security research, and innovative tech solutions.<br><br>📫 How to reach me: (Here you can add your email, LinkedIn, or GitHub links)<br><br>⚡ Fun fact: I love discovering new technologies and experimenting with different programming languages in my free time!
 
+![happy-back-to-school](https://github.com/user-attachments/assets/eed345b3-3c95-4b20-bc88-681b41befeb8)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/v%C3%ADctor-mart%C3%ADn-ruiz-455593275/) 
