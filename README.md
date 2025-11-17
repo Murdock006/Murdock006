@@ -22,4 +22,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Murdock006&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Snake Light](https://github.com/<TU-USUARIO>/<TU-USUARIO>/blob/gh-pages/github-snake.svg)
+![GitHub Snake Dark](https://github.com/<TU-USUARIO>/<TU-USUARIO>/blob/gh-pages/github-snake-dark.svg)
 
